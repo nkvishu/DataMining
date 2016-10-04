@@ -36,4 +36,4 @@ def checkAttributes(listTran,position,transactions):
     elif (countZero == len(listTran)):
         return 0
     else:
-      return 2
+      return 2  
